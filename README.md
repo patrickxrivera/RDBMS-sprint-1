@@ -60,3 +60,4 @@ parameter embedded in the URL, not in the query-string):
 
 - Find the zoo associated with the given `id`. Remember to handle errors and send the correct status code.
 # RDBMS-sprint-1
+# RDBMS-sprint-II
