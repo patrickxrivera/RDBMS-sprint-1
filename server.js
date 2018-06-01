@@ -9,5 +9,5 @@ server.use(bodyParser.json());
 
 const port = 3000;
 server.listen(port, function() {
-    console.log(`Server Listening on ${port}`);
+  console.log(`Server Listening on ${port}`);
 });
